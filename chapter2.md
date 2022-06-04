@@ -4,7 +4,7 @@ Let there be images! Let's show which parachain is which.
 
 ![banners](chapter2/Screenshot%20from%202022-05-01%2012-19-50.png)
 
-But maybe better on the floor
+But maybe better on the floor...
 
 ![banner-floor](chapter2/Screenshot%20from%202022-05-01%2021-15-10.png)
 
@@ -12,7 +12,7 @@ Let's repeat them so people don't have to refer back to the start
 
 ![repeat-banner](chapter2/Screenshot%20from%202022-05-01%2021-45-49.png)
 
-Statemine has a special place as one of the common good parachains:
+Statemine has a special place as one of the `common good` parachains:
 
 ![statemine](chapter2/Screenshot%20from%202022-05-02%2010-09-05.png)
 
@@ -65,8 +65,8 @@ Donuts (don't ask me why) are used to show XCM events. I can't quite marry up al
 
 ![donuts](chapter2/Screenshot%20from%202022-05-12%2010-16-27.png)
 
-So XCM is now visualised a bit and cross chain is looking pretty.
+So XCM is now visualised a bit, and cross chain is looking pretty.
 
 ![pretty-xcm](chapter2/Screenshot%20from%202022-05-16%2006-31-02.png)
 
-[Chapter 3](chapter3.md)
+[Chapter 3: Play with time](chapter3.md)

@@ -28,27 +28,27 @@ Colors look a bit better near the light - might want to have some ambient lighti
 
 ![spotlight](chapter1/Screenshot%20from%202022-04-24%2014-40-51.png)
 
-Let's put the boring extrinsics underneath the world. This is things that are required by the parachain to opperate but are not really user activity.
+Let's put the boring extrinsics underneath the world. This is things that are required by the parachain to operate but are not really user activity. (Think staking)
 
 ![boring underworld](chapter1/Screenshot%20from%202022-04-24%2014-41-23.png)
 
-First attempt at on screen text, and started raining extrinsics and events from the heavens.
+First attempt at on screen text, and started raining extrinsics and now events raining down from the heavens as the new blocks are forged.
 
 ![text](chapter1/Screenshot%20from%202022-04-25%2000-02-29.png)
 
-Highlighting XCM messages by having them go into the sky high:
+Highlighting XCM messages by having them go sky high:
 
 ![xcm](chapter1/Screenshot%20from%202022-04-25%2006-46-04.png)
 
-EVM chains have distinctive patterns at the moment. I will need to understad how to use the eth abi to decode them. We're using cubes to display extrinsics (transactions) and the sphears are events.
+EVM chains have distinctive patterns at the moment. I will need to understand how to use the eth abi to decode them. We're using cubes to display extrinsics (transactions) and the spheres are events.
 
 ![evm](chapter1/Screenshot%20from%202022-04-28%2023-09-12.png)
 
-Things don't always go to plan but at least some of the bugs are interesting!
+Things don't always go to plan, but at least some of the bugs are interesting!
 
 ![bugs](chapter1/Screenshot%20from%202022-04-29%2020-12-55.png)
 
-So at the end of chapter 1 we have the start of something interesting.
+So at the end of chapter 1 we have the start of something...
 
 ![summary](chapter1/Screenshot%20from%202022-04-30%2010-25-02.png)
 
