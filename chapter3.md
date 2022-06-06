@@ -14,13 +14,13 @@ And then finally the parachains - but this time we're being driven by the data o
 
 ![parachains-in-time](chapter3/Screenshot%20from%202022-05-26%2007-42-37.png)
 
-So far so good and starting to look pretty again:
-
-![pretty-good](chapter3/Screenshot%20from%202022-05-29%2007-05-21.png)
-
 Ah realise that the atmosphere is interfearing with the rainbows, leading to rendering grayness at certain depths. Bug be banished!
 
 ![bug-banishd](chapter3/Screenshot%20from%202022-05-29%2007-09-49.png)
+
+So far so good and starting to look pretty again:
+
+![pretty-good](chapter3/Screenshot%20from%202022-05-29%2007-05-21.png)
 
 For quite a while I wanted to have Kusama's own style start to shine through. And so we have some initial dark side of Kusama showing it's true colors. We have also started spacing out the blocks on the x-axis based on the timestamps extrinsic in the blocks.
 
